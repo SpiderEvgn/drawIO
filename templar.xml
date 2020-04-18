@@ -1,6 +1,6 @@
-<mxfile modified="2020-04-18T13:24:15.003Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="Vm4Hlchj6MFjNjslsJjA" version="12.9.14" type="github">
+<mxfile modified="2020-04-18T13:28:23.501Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="DTr3D6LyncWB10rz3FDK" version="12.9.14" type="github">
   <diagram id="nuEcVIXrLbvVM1fUiZzF" name="Page-1">
-    <mxGraphModel dx="2038" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2038" dy="1721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -660,7 +660,7 @@
         </mxCell>
         <mxCell id="I2cTnEdnRW89II02c0nb-58" value="1. git push / pull request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="I2cTnEdnRW89II02c0nb-57" vertex="1" connectable="0">
           <mxGeometry x="-0.016" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="-66.67" as="offset" />
+            <mxPoint x="1" y="13.329999999999998" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I2cTnEdnRW89II02c0nb-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="I2cTnEdnRW89II02c0nb-76" edge="1" source="I2cTnEdnRW89II02c0nb-2">
@@ -739,18 +739,18 @@
             <mxPoint x="-2" y="-12.000000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I2cTnEdnRW89II02c0nb-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="I2cTnEdnRW89II02c0nb-48" edge="1">
+        <mxCell id="T6x6YKhyxN75jBzoSWJI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="1" source="I2cTnEdnRW89II02c0nb-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-194" y="1570" as="targetPoint" />
+            <mxPoint x="-195.365" y="1570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I2cTnEdnRW89II02c0nb-56" value="3.2 - if: push release branch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="I2cTnEdnRW89II02c0nb-55" vertex="1" connectable="0">
-          <mxGeometry x="0.1801" y="-2" relative="1" as="geometry">
-            <mxPoint x="1.6300000000000072" y="-28.75" as="offset" />
+        <mxCell id="T6x6YKhyxN75jBzoSWJI-18" value="3.2 - if: push release branch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T6x6YKhyxN75jBzoSWJI-17">
+          <mxGeometry x="-0.0884" y="2" relative="1" as="geometry">
+            <mxPoint x="-2.03" y="-16.67" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I2cTnEdnRW89II02c0nb-48" value="start build according to GitHub trigger" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-269.99" y="1390" width="151.25" height="100" as="geometry" />
+          <mxGeometry x="-270.99" y="1390" width="151.25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="I2cTnEdnRW89II02c0nb-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T6x6YKhyxN75jBzoSWJI-8" target="I2cTnEdnRW89II02c0nb-38" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -767,7 +767,7 @@
             <mxPoint y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I2cTnEdnRW89II02c0nb-76" value="Github" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="I2cTnEdnRW89II02c0nb-76" value="GitHub" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-514" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I2cTnEdnRW89II02c0nb-77" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T6x6YKhyxN75jBzoSWJI-15" target="I2cTnEdnRW89II02c0nb-76" edge="1">
